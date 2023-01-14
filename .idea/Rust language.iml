@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s12_58_consuming_crates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s1_04_hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s2_08_core_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s2_09_operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s2_11_declaring_and_using_constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s2_12_stack_and_heap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s3_14_if_statement/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s4_20_enumerations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s4_26_pattern_matching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust language/s8_42_into/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s1_04_hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s2_08_core_data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s2_09_operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s3_14_if_statement/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s2_12_stack_and_heap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s12_58_consuming_crates/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s2_11_declaring_and_using_constants/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s4_20_enumerations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s4_26_pattern_matching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust language/s8_42_into/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
